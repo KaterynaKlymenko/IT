@@ -1,1 +1,1 @@
-# resume_GoIT
+# GoIT
